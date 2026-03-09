@@ -19,4 +19,5 @@ class PageController extends Controller
     {
         return view('about');
     }
+
 }
